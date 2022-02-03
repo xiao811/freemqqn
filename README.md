@@ -8,6 +8,7 @@
 
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/main/README_EN.md) | 中文版
 </div>
+二
 
 [📢 注意](#-注意)
 
